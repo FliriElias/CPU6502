@@ -2,7 +2,7 @@
 
 #### by, Fliri Elias
 
-![MOS6502](https://imgur.com/1HhYPT9)
+![MOS6502](https://i.imgur.com/1HhYPT9.jpg)
 
 ## Overview
 
